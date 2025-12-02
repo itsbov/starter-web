@@ -16,6 +16,8 @@ This is the deployment section
 
 ## How to Contribute
 
+Please fork this repository and then issue pull request.
+
 ##Copyright
 
 2025
