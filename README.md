@@ -4,8 +4,8 @@ This is a simple website project
 
 ## Introduction
 
-This is an example to show different parts of the Git repository and various commands. Adding a line for rebasing example.
-
+This is an example to show different parts of the Git repository and various commands. Adding a line for rebasing example, then more changes  from myfeature branch too.
+ 
 ## Purpose
 
 Lorem ipsum
