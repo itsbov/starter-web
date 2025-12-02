@@ -15,3 +15,7 @@ Lorem ipsum
 This is the deployment section
 
 ## How to Contribute
+
+##Copyright
+
+2025
