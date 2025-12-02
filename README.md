@@ -4,7 +4,7 @@ This is a simple website project
 
 ## Introduction
 
-This is an example to show different parts of the Git repository and various commands.
+This is an example to show different parts of the Git repository and various commands. Adding a line for rebasing example.
 
 ## Purpose
 
